@@ -52,11 +52,11 @@ Once you have set up all, you can start advertising your customer's websites usi
 
 Just open the above “secured_redirect.php” PHP file using any code editor and find the PHP array like below.
 
-array(
+$access_keys = array(
     "MY_TOKEN_KEY",
     "YOUR_NEW_KEY",
     "Dilantha1998"    
-)
+);
 
 Inside the array(), you can see tokens keys which we have configured in default. You can rename them with your own keys, or add more keys for future use.
 
