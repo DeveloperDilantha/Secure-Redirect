@@ -56,7 +56,7 @@ array(
     "MY_TOKEN_KEY",
     "YOUR_NEW_KEY",
     "Dilantha1998"    
-);
+)
 
 Inside the array(), you can see tokens keys which we have configured in default. You can rename them with your own keys, or add more keys for future use.
 
