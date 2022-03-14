@@ -52,7 +52,7 @@ Once you have set up all, you can start advertising your customer's websites usi
 
 Just open the above “secured_redirect.php” PHP file using any code editor and find the PHP array like below.
 
-$access_keys = array(
+array(
     "MY_TOKEN_KEY",
     "YOUR_NEW_KEY",
     "Dilantha1998"    
